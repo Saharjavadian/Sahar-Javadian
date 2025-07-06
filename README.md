@@ -36,5 +36,5 @@ I'm a **Data Scientist with over 3 years of experience** in engineering, data sc
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-NAME-HERE)  
-- 📧 sahar.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/saharjavadian)  
+- 📧 sahar.javadian3@gmail.com
