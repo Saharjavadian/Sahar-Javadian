@@ -8,8 +8,7 @@ I am Sahar Javadian, a data scientist and researcher with experience in machine 
 
 🌍 I'm based in Montreal, Canada
 
-
-🖥️ See my linkedin at [https://www.linkedin.com/in/shayan-mousavi-ai/](https://www.linkedin.com/in/saharjavadian/)
+🖥️ See my linkedin at (https://www.linkedin.com/in/saharjavadian/)
 
 
 ---
