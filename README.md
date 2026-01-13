@@ -7,6 +7,8 @@ About me!
 I am Sahar Javadian, a data scientist and researcher with experience in machine learning, applied AI, and data-driven modeling across academic and industry settings. My work focuses on developing and evaluating robust predictive models, integrating multi-source data, and applying modern AI techniques, including deep learning, time-series forecasting, and NLP to support analytical decision-making. I am particularly interested in leveraging scalable, data-centric approaches to build reliable, interpretable, and impactful AI solutions for real-world problems.
 
 🌍 I'm based in Montreal, Canada
+
+
 🖥️ See my linkedin at [https://www.linkedin.com/in/shayan-mousavi-ai/](https://www.linkedin.com/in/saharjavadian/)
 
 
