@@ -4,7 +4,7 @@ About me!
 
 # 👋 Hi, I'm Sahar Javadian
 
-I'm a **Data Scientist with over 3 years of experience** in engineering, data science, and data analysis. I specialize in applying machine learning and NLP techniques to solve real-world problems and drive data-informed decision making.
+I am Sahar Javadian, a data scientist and researcher with experience in machine learning, applied AI, and data-driven modeling across academic and industry settings. My work focuses on developing and evaluating robust predictive models, integrating multi-source data, and applying modern AI techniques—including deep learning, time-series forecasting, and NLP—to support analytical decision-making. I am particularly interested in leveraging scalable, data-centric approaches to build reliable, interpretable, and impactful AI solutions for real-world problems.
 
 ---
 
